@@ -3,8 +3,8 @@
 Thanks for visiting my github profile.
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ReactJS
+- 🌱 I’m currently looking at: OpenProps, Vite.js, Tanstack Router
 - 💞️ I’m looking to collaborate on any JavaScript project
 - 📫 How to reach me:
      Get in touch via email ( om.alex@hotmail.com ) or visit my personal page https://alexeyom.com
